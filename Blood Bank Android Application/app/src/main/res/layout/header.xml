@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#6A1079"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    >
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/baseline_account_box_24"
+        android:layout_gravity="left"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hi,"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mailprint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="anik.deb161@gmail.com"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</LinearLayout>
