@@ -45,7 +45,7 @@ The Blood Bank Web Application is designed to assist users in finding blood dono
 
 #### Setup
 1. Clone the repository.
-2. Create a MySQL database and import the provided SQL file.
+2. Create a MySQL database and import the provided SQL file located in db folder.
 3. Configure the database connection in the PHP files.
 4. Run the application using a local server (e.g., XAMPP or WAMP).
 
