@@ -1,4 +1,4 @@
-# My Projects Repository
+# My University Projects Repository
 
 This repository contains all my academic projects, each demonstrating various technologies and concepts learned throughout my coursework. Below is a description of each project, including features, technologies used, and installation/setup instructions.
 
