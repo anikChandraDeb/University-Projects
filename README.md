@@ -14,8 +14,10 @@ The Blood Bank Android Application helps users find blood donors and request blo
 
 #### Features
 - User registration and login
-- Donor listing with blood group filters
+- Search and Request Blood
 - Search functionality based on blood type and location
+- Blood Post for easily get response
+- Track donor status and count donation times
 - Database management with SQLite for storing user and blood donor data
 
 #### Setup
@@ -38,6 +40,8 @@ The Blood Bank Web Application is designed to assist users in finding blood dono
 - Donor and request management
 - Search donors by blood group and region
 - Responsive design with Bootstrap
+- Blood Post for easily get response
+- Track donor status and count donation times
 
 #### Setup
 1. Clone the repository.
